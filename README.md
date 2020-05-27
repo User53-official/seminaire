@@ -2,7 +2,7 @@
 
 ## Prérequis
 
-* Télécharger et installer le compilateur de Elm:
+* Télécharger et installer le compilateur d'Elm:
   * [Mac OS X](https://github.com/elm/compiler/releases/download/0.19.1/installer-for-mac.pkg)
   * [Windows 10](https://github.com/elm/compiler/releases/download/0.19.1/installer-for-windows.exe)
   * [Instructions pour Linux](https://github.com/elm/compiler/blob/master/installers/linux/README.md)
