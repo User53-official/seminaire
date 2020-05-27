@@ -8,7 +8,7 @@
 
 \*Il est recommander d'utiliser Visual Studio Code avec l'extension d'Elm:
   * https://code.visualstudio.com/
-  * https://marketplace.visualstudio.com/items?itemName=sbrink.elm
+  * https://marketplace.visualstudio.com/items?itemName=Elmtooling.elm-ls-vscode
 
 ## Suivre les ateliers
 
