@@ -3,7 +3,9 @@
 ## Prérequis
 
 * Télécharger et installer le compilateur de Elm:
-  * https://guide.elm-lang.org/install/elm.html
+  * [Mac OS X](https://github.com/elm/compiler/releases/download/0.19.1/installer-for-mac.pkg)
+  * [Windows 10](https://github.com/elm/compiler/releases/download/0.19.1/installer-for-windows.exe)
+  * [Instructions pour Linux](https://github.com/elm/compiler/blob/master/installers/linux/README.md)
 * Avoir un editeur de text
 
 \*Il est recommander d'utiliser Visual Studio Code avec l'extension d'Elm:
