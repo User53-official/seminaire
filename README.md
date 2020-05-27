@@ -1,4 +1,4 @@
-# La programmation fonctionnelle dans le navigateur, qu'est-ce que ça change?
+# Choisir son langage, le dilemme du web
 
 ## Prérequis
 
