@@ -2,7 +2,7 @@
 
 ## Prérequis
 
-* Avoir le compilateur de Elm:
+* Télécharger et installer le compilateur de Elm:
   * https://guide.elm-lang.org/install/elm.html
 * Avoir un editeur de text
 
