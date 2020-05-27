@@ -12,4 +12,4 @@
 
 ## Suivre les ateliers
 
-Pour ceux qui veulent être en mesure de suivre les ateliers plus facilement, je vous recommande d'aller sur l'onglet wiki de ce projet.
+Pour ceux qui veulent être en mesure de suivre les ateliers plus facilement, je vous recommande d'aller sur l'[onglet wiki de ce projet](https://github.com/User53-official/seminaire/wiki).
